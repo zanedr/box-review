@@ -30,5 +30,6 @@ const renderIdeas = () => {
 
 $('#display').on('click', '.delete-button', () => {
     let ideaIndexRef = $(this).parent().attr('id')
+    console.log($(this))
     console.log('ideaIndex', $(this).siblings('h4'))
 })
