@@ -1,0 +1,3 @@
+$('#submit-location').on('click', () => {
+    
+})
