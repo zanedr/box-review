@@ -1,0 +1,23 @@
+h3 {
+    margin: 0;
+    width: 50px;
+}
+
+.input-label {
+    display: flex;
+}
+
+#input-container: {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    height: 30px;
+}
+
+.idea-container {
+    width: 500px;
+    height: 200px;
+    border: 1px solid black;
+}
